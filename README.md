@@ -26,6 +26,16 @@
 有人骂我，帮我写一段不直接引用对方原话的周礼式回应
 ```
 
+## 示例输出
+
+```text
+我曾经听说，高耸的山峰不会因为狂风一时呼啸而改变自己的形貌，深广的江河也不会因为浮沫片刻翻涌而停止向东流去。古时候的君子之所以能够使人敬重，是因为他们知道言语应当用来辨明道理，而不是用来伤害别人；那些轻易出口讥讽的人之所以常常失去和气，也是因为他们只图一时痛快，却忘记了礼义本该约束人的言辞。
+
+如今有人以轻慢之语相加，虽看似不过一时戏言，实则已经使交谈失去了温厚的本意，这正是我心中暗自感到惋惜的缘由啊。若我果真有不当之处，自可明言其理；若只是以恶语相向，恐怕便不是君子相待之道了。
+
+还请诸位好好思量其中的道理，使言语归于和顺，使争论归于明理。如此，方可称得上是合乎周礼。
+```
+
 ## 风格要点
 
 - 以“我曾经听说”开头
@@ -40,13 +50,13 @@
 将本仓库放到 Codex skills 目录中：
 
 ```powershell
-git clone https://github.com/ygpdzd/zhouli-copywriter.git C:\Users\86158\.codex\skills\zhouli-copywriter
+git clone https://github.com/ygpdzd/zhouli-copywriter.git ~/.codex/skills/zhouli-copywriter
 ```
 
 如果已经在该目录中，可以直接更新：
 
 ```powershell
-cd C:\Users\86158\.codex\skills\zhouli-copywriter
+cd ~/.codex/skills/zhouli-copywriter
 git pull
 ```
 
