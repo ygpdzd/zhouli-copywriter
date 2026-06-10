@@ -1,6 +1,6 @@
 ---
 name: zhouli-copywriter
-description: Generate Chinese "大周礼时代" copywriting in the solemn modern-vernacular translation style used for 周礼 memes. Use when the user asks for 周礼文案, 大周礼时代文案, 合乎周礼/不周礼 meme replies, 古文翻译腔劝告朋友, mock-ritual admonitions, or polished social/chat copy that uses classical allusions and dignified moral reasoning to advise, tease, persuade, or comment on everyday situations.
+description: 生成中文“大周礼时代”文案，采用庄重的现代白话翻译腔、周礼梗语气和温厚劝告风格。适用于用户要求周礼文案、大周礼时代文案、合乎周礼/不周礼回复、古文翻译腔劝朋友、礼法式吐槽、群聊评论、朋友圈文案，或需要用典故、自然意象、君子之争、礼义秩序等方式来劝告、调侃、回应、安慰、拒绝或评价日常情境时。
 ---
 
 # Zhouli Copywriter
