@@ -21,12 +21,19 @@ Modern mapping:
 - 荀子积跬步: use for accumulated study, exam preparation, long effort.
 - 韦编三绝: use for repeated reading, revising, or grinding through hard material.
 - 囊萤映雪: use for difficult study conditions, endurance, or student hardship.
+- 车胤囊萤: use for teasing someone who refuses to study despite having better conditions.
+- 孙康映雪: use for comparing ancient hardship with modern convenience.
+- 范仲淹断齑画粥: use for joking contrast between real hardship and modern distraction.
+- 孙膑忍辱著书: use only for exaggerated joking contrast; avoid sounding too heavy unless the user's prompt is already dramatic.
 - 旧卷新题: not a fixed allusion, but useful as a ritual frame for finishing one stage and entering another.
 
 Modern mapping:
 
 - exam bell, test paper, long article, dense documentation, homework, project handoff.
 - For "long text is hard to read", use a soft admonition: a long road need not be crossed in one step; a thick book need not be swallowed at once.
+- For joking "劝学", do not make the ending too inspirational. The point is to compare severe ancient hardship with a trivial modern excuse, then land on a mild jab such as `这种道理你还是好好想想吧`.
+- Good targets: playing with a phone, refusing to open a book, waiting for exam miracles, saying study is too hard while living comfortably.
+- Useful rhetorical question: `难道古人的萤火比你的台灯更亮吗？难道孙康的雪地比你的书桌更暖吗？`
 
 ## Debate And Speech
 
@@ -103,6 +110,7 @@ Use endings flexibly. Do not force every reply to end in `合乎周礼`.
 | Situation | Good allusion pool | Closing tone |
 | --- | --- | --- |
 | Long text | 韦编三绝, 积跬步, long road/book image | gentle sigh |
+| Study teasing | 车胤, 孙康, 范仲淹, 孙膑 | mild jab |
 | Exam ending | 积跬步, 苟日新, 旧卷新题 | blessing |
 | Group debate | 和而不同, 以理服人 | ritual revival |
 | Small favor | 管鲍, 鸡黍之约, 分甘共苦 | friendship |

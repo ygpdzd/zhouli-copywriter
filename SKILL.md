@@ -34,6 +34,7 @@ Create Chinese meme copy that sounds like a careful modern translation of ancien
 - Use small overstatement. A cup of milk tea, a late reply, or a minor quarrel can be framed as a matter of 礼乐兴衰.
 - Treat modern internet situations as if they were matters of ancient order: small events should be written in a dignified frame, but the real target must stay recognizable.
 - Keep the admonition warm. The voice should sound like a friend dressing concern in ritual language, not like hostile scolding.
+- For joking admonitions, especially study/exam/procrastination teasing, allow a lightly belittling contrast: ancient people endured hardship and still studied, while the modern target quits because of phone, laziness, or distraction. Keep it playful, not abusive.
 - Use `周礼` sparingly at the end or punchline. Do not cram it into every sentence.
 - Do not force every ending to say `合乎周礼`. It is often better to end with a sigh, a mild judgment, a humble self-lowering phrase, or `看来礼又要在这里兴盛了`.
 - When responding to insults, attacks, or crude wording, do not quote the original insult unless the user explicitly asks. Paraphrase it as `轻慢之语`, `恶语`, `讥讽之辞`, or `失礼之言` so the output stays dignified.
@@ -107,6 +108,8 @@ For "更好笑/更抽象", make the modern target smaller and the ritual framing
 
 For "参考这个群聊文体/像截图这种周礼体", use the groupchat register: small modern event, ancient/natural comparison, causal moral explanation, then a sigh, humble comment, or ritual-revival ending. Avoid always appending `合乎周礼`.
 
+For "劝学/劝人学习/别玩手机/考试要努力" as a joke, do not end with sentimental uplift like `愿你日日用功` unless requested. Prefer the teasing pattern: compare the target with 車胤、孙康、范仲淹、孙膑 or other hardship examples; ask whether their hardship was really greater; point out the target's phone/distraction/laziness; end with `这种道理你还是好好想想吧` or a similar mild jab.
+
 For "有人骂我/被人攻击/回怼但不对骂", avoid repeating the attacker's exact words. Convert the target into indirect ritual language such as `如今有人以轻慢之语相加` and focus on restoring reason, warmth, and boundaries.
 
 For "拒绝朋友/不陪对方做某事/守底线", use the principled-refusal pattern from the reference: several allusions, a rhetorical question, a values comparison, then a gentle refusal.
@@ -121,6 +124,7 @@ Before finalizing, check:
 - Is the tone ceremonial but still modern Chinese, not obscure fake classical prose?
 - Does the ending fit the user's requested mood: punchline, sigh, humility, blessing, refusal, or ritual revival?
 - If the user says not to force `合乎周礼`, avoid that ending.
+- If the user wants a joke, avoid earnest motivational endings. A mild jab, comic contrast, or `你好好想想吧` ending is often better.
 
 ## Reference
 
