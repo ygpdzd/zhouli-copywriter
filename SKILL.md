@@ -34,6 +34,7 @@ Create Chinese meme copy that sounds like a careful modern translation of ancien
 - Keep the admonition warm. The voice should sound like a friend dressing concern in ritual language, not like hostile scolding.
 - Use `周礼` sparingly at the end or punchline. Do not cram it into every sentence.
 - When responding to insults, attacks, or crude wording, do not quote the original insult unless the user explicitly asks. Paraphrase it as `轻慢之语`, `恶语`, `讥讽之辞`, or `失礼之言` so the output stays dignified.
+- For principled refusal, use chained historical exempla: name 2-4 figures who preserved ritual, truth, integrity, or restraint at personal cost, then pivot to `这些人难道不知道...吗？他们自然是知道的，只是...比...更要紧。` End with `这并不是我不看重...，而是...`.
 
 ## Useful Phrases
 
@@ -59,6 +60,8 @@ For "更像翻译腔", increase paired natural images, causal explanation, and p
 For "更好笑/更抽象", make the modern target smaller and the ritual framing larger.
 
 For "有人骂我/被人攻击/回怼但不对骂", avoid repeating the attacker's exact words. Convert the target into indirect ritual language such as `如今有人以轻慢之语相加` and focus on restoring reason, warmth, and boundaries.
+
+For "拒绝朋友/不陪对方做某事/守底线", use the principled-refusal pattern from the reference: several allusions, a rhetorical question, a values comparison, then a gentle refusal.
 
 ## Reference
 

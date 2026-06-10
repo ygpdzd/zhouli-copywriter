@@ -56,6 +56,32 @@ Do not write `如今你称我为...` or repeat the original insult unless the us
 
 ## Scenario Templates
 
+### Principled Refusal
+
+Use this when the user wants to refuse a friend's request without sounding cold. The structure is:
+
+1. `我听闻...` or `我曾经听说...`
+2. List 2-4 historical figures who chose ritual, truth, integrity, or honor over safety, comfort, or profit.
+3. Ask a rhetorical question:
+   `这些人难道不知道...吗？他们自然是知道的，只是...比...更要紧。`
+4. Refuse the present request:
+   `所以，这些有失体面的事情，我不能陪着你做。`
+5. Preserve the relationship:
+   `这并不是我不看重咱们的交情，是有些东西在我心中难以放下。`
+
+```text
+我听闻，子路在生死关头，还不忘把帽子戴正、把帽带系好，说君子就是死，也不能衣冠不整；齐国太史三兄弟，一个接一个地冒着杀头的风险，也要在史书上写下真相，宁可丢命也不肯胡说八道；伯夷叔齐饿死在首阳山上，也不愿吃他们认为来路不正的粮食，饿死小事，但若因为求生失去节操就是大事了。这些人难道不知道活着的滋味吗？他们自然是知道的，只是有些东西比活着更要紧。
+
+所以，这些有失体面的事情，我不能陪着你做。这并不是我不看重咱们的交情，是有些东西在我心中难以放下。希望你能够理解这其中的道理，这才是君子的言行啊！
+```
+
+Useful substitutions:
+
+- Refusing shady work: `这些不合道义的事情，我不能陪着你做。`
+- Refusing gossip: `这些损人清誉的言语，我不能陪着你说。`
+- Refusing reckless fun: `这些一时痛快却后患无穷的事情，我不能陪着你做。`
+- Refusing cheating: `这些求一时便利却亏损心中尺度的事情，我不能陪着你做。`
+
 ### Late Reply
 
 ```text
