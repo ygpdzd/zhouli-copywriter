@@ -31,10 +31,44 @@ Create Chinese meme copy that sounds like a careful modern translation of ancien
 - Keep the tone ceremonious but not obscure.
 - Make the moral logic legible: because X is true, the friend should do Y.
 - Use small overstatement. A cup of milk tea, a late reply, or a minor quarrel can be framed as a matter of 礼乐兴衰.
+- Treat modern internet situations as if they were matters of ancient order: small events should be written in a dignified frame, but the real target must stay recognizable.
 - Keep the admonition warm. The voice should sound like a friend dressing concern in ritual language, not like hostile scolding.
 - Use `周礼` sparingly at the end or punchline. Do not cram it into every sentence.
+- Do not force every ending to say `合乎周礼`. It is often better to end with a sigh, a mild judgment, a humble self-lowering phrase, or `看来礼又要在这里兴盛了`.
 - When responding to insults, attacks, or crude wording, do not quote the original insult unless the user explicitly asks. Paraphrase it as `轻慢之语`, `恶语`, `讥讽之辞`, or `失礼之言` so the output stays dignified.
 - For principled refusal, use chained historical exempla: name 2-4 figures who preserved ritual, truth, integrity, or restraint at personal cost, then pivot to `这些人难道不知道...吗？他们自然是知道的，只是...比...更要紧。` End with `这并不是我不看重...，而是...`.
+
+## Groupchat Zhouli Register
+
+Use this pattern when imitating the common "大周礼时代" groupchat style shown in screenshots or copied chat excerpts.
+
+Core feel: modern Chinese translation tone plus ancient ritual reasoning plus an oversized moral frame around a small internet matter.
+
+Typical moves:
+
+1. Open with `我听闻`, `我曾听说`, or `我曾经听闻`.
+2. Bring in one ancient or natural comparison: trees sprouting, animal tracks near water, a long road, a thick book, sages debating, friends sharing food.
+3. Explain the moral cause with `之所以...是因为...`.
+4. Pivot to the present with `如今`, `现在`, `所以你说`, or `这件事`.
+5. Reframe a small behavior as a sign of human relations, public order, friendship, restraint, learning, or ritual revival.
+6. Close with one of several endings:
+   - ritual revival: `看来礼又要在这里兴盛了。`
+   - gentle sigh: `此事想来，实在令人感叹。`
+   - humble self-lowering: `这不过是我的一点浅薄见知。`
+   - mild admonition: `这其中的道理，你还是好好想想吧。`
+   - friendship boundary: `若志向不同，也只好各自安坐，不必强求。`
+
+Useful formula:
+
+```text
+我曾听闻，[古人/自然/贤者的例子]。
+[他们/万物]之所以能够[结果]，是因为他们明白[道理]。
+
+如今[现代小事]，表面看来不过[小事本身]，
+其实也能看出[人心/礼义/分寸/朋友之道]。
+若能[建议行为]，自然最好；若不能，也不必彼此强逼。
+[以感叹、自谦、礼兴或轻劝收束]。
+```
 
 ## Useful Phrases
 
@@ -46,6 +80,10 @@ Create Chinese meme copy that sounds like a careful modern translation of ancien
 - `如此，方可称得上是合乎周礼。`
 - `若仍执意如此，恐怕便有些不周礼了。`
 - `愿礼乐重新兴起于你我之间。`
+- `看来礼又要在这里兴盛了。`
+- `此事想来，实在令人感叹。`
+- `这不过是我的一点浅薄见知。`
+- `这其中的道理，你还是好好想想吧。`
 
 ## Output Patterns
 
@@ -58,6 +96,8 @@ For "劝告朋友们", keep the copy benevolent and universal, avoiding direct s
 For "更像翻译腔", increase paired natural images, causal explanation, and phrases like `之所以`, `缘由`, `这难道不是...吗`.
 
 For "更好笑/更抽象", make the modern target smaller and the ritual framing larger.
+
+For "参考这个群聊文体/像截图这种周礼体", use the groupchat register: small modern event, ancient/natural comparison, causal moral explanation, then a sigh, humble comment, or ritual-revival ending. Avoid always appending `合乎周礼`.
 
 For "有人骂我/被人攻击/回怼但不对骂", avoid repeating the attacker's exact words. Convert the target into indirect ritual language such as `如今有人以轻慢之语相加` and focus on restoring reason, warmth, and boundaries.
 
