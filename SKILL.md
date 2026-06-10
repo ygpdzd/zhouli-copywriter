@@ -13,15 +13,16 @@ Create Chinese meme copy that sounds like a careful modern translation of ancien
 
 1. Identify the real purpose: advise, tease, persuade, comfort, complain, refuse, apologize, or praise.
 2. Choose one concrete modern target: late reply, staying up late, arguing, asking for KFC, procrastinating, refusing help, being stubborn, etc.
-3. Open with a dignified pattern such as `我曾经听说` or `我曾听闻`.
-4. Use one or two parallel natural images:
+3. Choose one allusion, classical idea, or natural image that can honestly map to the modern target. For stronger groupchat style, consult `references/allusions.md`.
+4. Open with a dignified pattern such as `我曾经听说` or `我曾听闻`.
+5. Use one or two parallel natural images:
    `高耸的山峰不会因为流水奔腾不息而去挽留`.
-5. Add a historical or moral contrast when helpful:
+6. Add a historical or moral contrast when helpful:
    a worthy person succeeds by restraint, gratitude, friendship, or acceptance of reason; an unworthy person suffers by indulgence, narrowness, or anger.
-6. Turn to the friend's present behavior with `如今你...`.
-7. State the worry or admonition:
+7. Turn to the friend's present behavior with `如今你...`.
+8. State the worry or admonition:
    `这正是我心中暗自忧虑的缘由啊`.
-8. End with a gentle ritual judgment:
+9. End with a gentle ritual judgment:
    `还请你好好思量其中的道理`, `此举方合乎周礼`, or `莫使朋友之义败坏于此`.
 
 ## Style Rules
@@ -89,6 +90,13 @@ Useful formula:
 
 For a single requested situation, produce 1-3 polished variants unless the user asks for more.
 
+When the user asks for a specific length, obey it. Otherwise use these default length modes:
+
+- Short comment: 30-100 Chinese characters. Good for groupchat replies and quick jokes.
+- Medium paragraph: 120-300 Chinese characters. Default for most requests.
+- Long proclamation: 350-700 Chinese characters. Use only when the user wants "长一点", "诏书感", or a full ceremonial reply.
+- Classical-flavored compact version: 50-180 Chinese characters. Keep it readable; do not turn into real hard classical Chinese.
+
 For "朋友圈/评论区/群聊" use, provide one concise version and one expanded version.
 
 For "劝告朋友们", keep the copy benevolent and universal, avoiding direct shaming.
@@ -103,6 +111,19 @@ For "有人骂我/被人攻击/回怼但不对骂", avoid repeating the attacker
 
 For "拒绝朋友/不陪对方做某事/守底线", use the principled-refusal pattern from the reference: several allusions, a rhetorical question, a values comparison, then a gentle refusal.
 
+## Output Self-Check
+
+Before finalizing, check:
+
+- Is there at least one allusion, classical idea, or strong natural image when the user asks for Zhouli flavor?
+- Does the allusion map to the modern target instead of floating as decoration?
+- Are concrete modern words preserved when they carry the joke, such as KFC, milk tea, group chat, exam paper, stock loss, or long text?
+- Is the tone ceremonial but still modern Chinese, not obscure fake classical prose?
+- Does the ending fit the user's requested mood: punchline, sigh, humility, blessing, refusal, or ritual revival?
+- If the user says not to force `合乎周礼`, avoid that ending.
+
 ## Reference
 
 Read `references/style-patterns.md` when needing more templates, examples, or scenario-specific patterns.
+
+Read `references/allusions.md` when needing stronger allusion selection, screenshot-like groupchat style, or a better mapping between ancient examples and modern objects.
