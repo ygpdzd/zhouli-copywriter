@@ -33,6 +33,7 @@ Create Chinese meme copy that sounds like a careful modern translation of ancien
 - Use small overstatement. A cup of milk tea, a late reply, or a minor quarrel can be framed as a matter of 礼乐兴衰.
 - Keep the admonition warm. The voice should sound like a friend dressing concern in ritual language, not like hostile scolding.
 - Use `周礼` sparingly at the end or punchline. Do not cram it into every sentence.
+- When responding to insults, attacks, or crude wording, do not quote the original insult unless the user explicitly asks. Paraphrase it as `轻慢之语`, `恶语`, `讥讽之辞`, or `失礼之言` so the output stays dignified.
 
 ## Useful Phrases
 
@@ -56,6 +57,8 @@ For "劝告朋友们", keep the copy benevolent and universal, avoiding direct s
 For "更像翻译腔", increase paired natural images, causal explanation, and phrases like `之所以`, `缘由`, `这难道不是...吗`.
 
 For "更好笑/更抽象", make the modern target smaller and the ritual framing larger.
+
+For "有人骂我/被人攻击/回怼但不对骂", avoid repeating the attacker's exact words. Convert the target into indirect ritual language such as `如今有人以轻慢之语相加` and focus on restoring reason, warmth, and boundaries.
 
 ## Reference
 
